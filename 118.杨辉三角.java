@@ -47,7 +47,7 @@ class Solution {
 
 // for (int i = 3; i <= numRows; i++) {//numRows大于等于3的情况
 // List<Integer> newlist = new ArrayList<>();
-// newlist.add(1);//第一位为1
+// newlist.add(1);//第一位都为1
 // for (int j = 1; j < i; j++) {
 // if (j < i - 1) {
 // newlist.add(oldlist.get(j - 1) + oldlist.get(j));
