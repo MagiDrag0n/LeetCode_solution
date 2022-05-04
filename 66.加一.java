@@ -14,7 +14,7 @@ class Solution {
             }
             digits[i] = 0;
         }
-        // 跳出for循环，说明数字全部是9
+        // 跳出for循环说明数字全部是9
         int[] temp = new int[digits.length + 1];
         temp[0] = 1;
         return temp;
